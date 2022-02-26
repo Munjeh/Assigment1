@@ -30,9 +30,8 @@ _A table for <strong>our meeting member</strong>_
 2. salat dresing
     1. olive  oil
 
-![Visit me at this](/images/lake.jpg)(https://google.com " a very nice lake)
+![Visit me at this](/im_ my list for today__
 
-```
 THis keep the text for coding & higthligth
 ```
 
@@ -44,11 +43,8 @@ This HTML <em>tutorial<em>, you will find more than 200 examples. With our onlin
 >
 
 
-**<i>Markdown Excercise von @Igor</i>**
+**<i>Markdown Excercis_ my list for today__
 
->
-
----
 
 <pan> ~~why are you so lazy~~
 Amerikanischen Unternehmens Google. Übereinstimmende Statistiken zeigen bei weltweiten Suchanfragen <br> Google &lt;als Marktführer&gt; unter den Internet-Suchmaschinen und als die meistbesuchte Website der Welt. Google bearbeitet jährlich mehr als zwei Billionen Suchanfragen. Wikipedia</span>
